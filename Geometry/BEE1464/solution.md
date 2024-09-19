@@ -1,0 +1,2 @@
+Para resolver este problema foi utilizado do algoritmo Monotone chain, pois ele é capaz de gerar um poligono convexo que possui todos os pontos dentro dele (além dos que pertencem a ele). Desta forma, foi possível gerar as camadas da cebola, e conforme ele gera uma camada, os pontos foram retirados da pilha de pontos para poder aplicar o algoritmo novamente, até que faltem menor de 3 pontos.
+OBS: Foram considerados pontos colineares.
