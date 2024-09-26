@@ -1,0 +1,1 @@
+Olá, para resolvermos esse problema, devemos tratar os LEDs como um número binário, onde o LED mais à esquerda é o bit menos significativo. Dessa forma, ao convertermos a string em um número utilizando bitshift, podemos somar o valor das repetições. Após obtermos o estado final como um número, basta verificar quais bits são 1 e quais são 0, pois eles representarão nossos O/X.

@@ -1,0 +1,3 @@
+Olá, para resolver esse problema, precisamos de uma variável que conte quantas vezes o 'R' apareceu isoladamente. Toda vez que ele aparecer, essa variável deve ser incrementada em 1. Caso esse número seja igual ao total de processos, incrementamos outra variável referente aos ciclos de máquina e zeramos a contagem de processos. Como neste problema o 'W' conta como 1 ciclo completo, toda vez que 'W' aparecer, além de incrementar o número de ciclos, devemos verificar se a variável referente ao número de processos é maior que 0, e, em seguida, zerá-la.
+
+Por fim, ao terminar a leitura, é importante verificar se na última leitura foi incrementado um ciclo, já que, caso o número de processos seja maior que 0, ainda há um ciclo a ser adicionado.
