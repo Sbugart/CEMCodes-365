@@ -1,0 +1,1 @@
+Olá, neste problema, eu basicamente utilizei um vetor inicializado com zeros para armazenar quantas vezes cada número aparece. Se, em uma determinada posição, o valor for maior que 1, eu incremento a quantidade de bilhetes clonados (só incremento uma vez para cada número).
