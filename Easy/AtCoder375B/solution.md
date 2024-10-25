@@ -1,0 +1,1 @@
+Olá, para resolver este problema nós podemos simplesmente ir somando o resultado de cada distância. Lembrando que o primeiro e último ponto são a origem. 

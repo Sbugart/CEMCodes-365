@@ -1,0 +1,1 @@
+Eae, nesta aqui nós precisamos simplesmente olhar se os vizinhos do '.' são '#', se sim, nós somamos em um contados. Por fim, printamos este resultado.
