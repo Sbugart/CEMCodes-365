@@ -1,0 +1,1 @@
+Olá, para resolver esta questão, o algoritmo BFS foi aplicado duas vezes, uma para cada cavalo. Cada BFS retornava um vetor com a informação de se um cavalo é acessado ou não, para saber se eles possuem parentesco.
