@@ -1,0 +1,3 @@
+Como o tabuleiro apresentado no problema é fixo em 8x8, a solução foi implementada utilizando força bruta. Para isso, foi criada uma matriz 8x8 de inteiros, inicializada com o valor 1, representando as células disponíveis. Em seguida, a matriz de entrada é lida, e, sempre que uma célula contendo o caractere '#' é encontrada, a linha e a coluna correspondentes dessa célula são marcadas como 0 na matriz de inteiros, indicando que elas não podem ser utilizadas.
+
+Por fim, o programa percorre toda a matriz de inteiros para contar quantas células ainda possuem o valor 1, ou seja, quantas células permanecem disponíveis. Esse valor é então exibido como resultado.

@@ -1,0 +1,1 @@
+Para resolver este problema, basta iterar a string do final para o início. Durante a iteração, sempre que encontramos o caractere '@', ele é substituído por '.', e a quantidade de dias restantes (day) é decrementada em 1. Esse processo continua até que o número de dias restantes seja igual a 0. Ao final da execução, a string resultante é exibida.

@@ -1,0 +1,2 @@
+Como a entrada possui apenas quatro itens, foi utilizada força bruta para contar as bolas iguais. A solução percorre os valores de entrada e, para cada valor, procura outro valor idêntico ainda não marcado como usado. Quando um par é encontrado, ambos os valores são marcados como usados e o contador é incrementado. Por fim, o valor do contador, que representa o número de pares de bolas iguais, é exibido como resultado.
+
