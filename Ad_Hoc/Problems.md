@@ -6,6 +6,8 @@ Problemas realizados:
 
 [AtCoder382C](https://atcoder.jp/contests/abc382/tasks/abc382_c)
 
+[AtCoder-ABC386D](https://atcoder.jp/contests/abc386/tasks/abc386_d)
+
 
 ---*BEECROWD*---
 

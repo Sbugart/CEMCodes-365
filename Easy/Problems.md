@@ -25,3 +25,25 @@ Problemas realizados:
 [AtCoder385A](https://atcoder.jp/contests/abc385/tasks/abc385_a)
 
 [AtCoder385B](https://atcoder.jp/contests/abc385/tasks/abc385_b)
+
+[AtCoder-ABC386A](https://atcoder.jp/contests/abc386/tasks/abc386_a)
+
+[AtCoder-ABC386B](https://atcoder.jp/contests/abc386/tasks/abc386_b)
+
+
+
+---*CodeForces*---
+
+[CodeForces-Div 03-988-A](https://codeforces.com/contest/2037/problem/A)
+
+[CodeForces-Div 03-988-B](https://codeforces.com/contest/2037/problem/B)
+
+[CodeForces-Div 03-991-A](https://codeforces.com/contest/2050/problem/A)
+
+[CodeForces-Div 03-995-A](https://codeforces.com/contest/2051/problem/A)
+
+[CodeForces-Div 03-995-B](https://codeforces.com/contest/2051/problem/B)
+
+[CodeForces-Div 03-995-C](https://codeforces.com/contest/2051/problem/C)
+
+[CodeForces-Good Bye 2024-A](https://codeforces.com/contest/2053/problem/A)

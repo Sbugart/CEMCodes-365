@@ -1,0 +1,3 @@
+Este problema requer que calculemos quantas duplas podem ser formadas a partir dos elementos fornecidos.
+
+Para isso, o vetor informado foi ordenado. Com essa ordenação, podemos percorrer o vetor e verificar se o valor atual é igual ao próximo. Se forem iguais, formamos uma dupla, incrementamos o contador de pares (score) e pulamos para o próximo par de valores. Caso contrário, seguimos para o próximo elemento. É importante garantir que valores já contados não sejam considerados novamente.
