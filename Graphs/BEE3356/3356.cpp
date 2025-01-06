@@ -26,7 +26,6 @@ vector<int> BFS(vector<cavalo> &cavalos, string origem){
     while(!fila.empty()){
         cavalo *atual = fila.front();
         fila.pop();
-        //cout << atual->name << " " << fila.size() << " ";
         explorados[atual->id] = 1;
         for(int i = 0; i < (int)atual->pai.size(); i++){
             if(explorados[atual->pai[i]->id] == 0){
